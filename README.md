@@ -24,10 +24,10 @@ Assurez-vous de configurer correctement les variables d'environnement nécessair
 Vous pouvez contribuer à ce projet en créant des issues, en soumettant des pull requests, etc.
 
 ## Auteurs
-- Votre nom ou pseudo
+- Bamba Fall
 
 ## License
-Ce projet est sous licence [insérer la licence]
+Ce projet n'est sous licence.
 
 ## Remarques supplémentaires
 Ajoutez ici toute remarque ou détails supplémentaires que vous jugez importants pour votre API.
