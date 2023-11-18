@@ -1,7 +1,7 @@
 # API d'Authentification d'Utilisateur
 
 ## Description
-Cette API permet l'inscription et la connexion des utilisateurs en utilisant Node.js et MongoDB. Elle utilise les modules npm suivants : `express`, `cookie-parser`, `mongoose`, `jsonwebtoken`, `bcrypt`, et `nodemon`, `dotenv`.
+Cette API permet l'inscription et la connexion des utilisateurs en utilisant Node.js et MongoDB. Elle utilise les modules npm suivants : `express`, `cookie-parser`, `mongoose`, `jsonwebtoken`, `bcrypt`,  `nodemon`, et `dotenv`.
 
 ## Installation
 1. Clonez le dépôt : `git clone <URL_du_dépôt>`
